@@ -1,0 +1,8 @@
+{
+  "latestVersion": "3.23.2026",
+  "downloadUrl": "https://gsm6.com/solutions/pixel-technicians-toolkit-v3/",
+  "mandatory": false,
+  "releaseNotes": "Initial release with IMEI repair support for Pixel 6, 6a, 6 Pro",
+  "releaseDate": "2026-06-01",
+  "minRequiredVersion": "3.20.2026"
+}
